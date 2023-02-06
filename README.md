@@ -18,6 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Github Stats
@@ -25,3 +26,6 @@
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DavidHo666&count_private=true&show_icons=true"/>
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHo666&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
+
+## Reach out to me
+<a href="mailto:dh3027@columbia.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
