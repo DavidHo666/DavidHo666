@@ -5,7 +5,7 @@
 - 🔭 I have experience in full stack web application [Buddies](https://github.com/DavidHo666/Buddies) and backend service [EasyPost](https://github.com/DavidHo666/w4156pj.git). Besides, I also have experienc in ML related fields (AI, CV and NLP) and had a [Iris recognition project](https://github.com/DavidHo666/GR5293-Group-Project).
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dawei-he/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like road trip and hiking, hoping to visit all states and national parks in US.
+- ⚡ Fun fact: I like road trip and hiking, hoping to visit every state and national park in US.
 
 ## Things I code with
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
