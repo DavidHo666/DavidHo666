@@ -4,7 +4,6 @@
 - 🌱 I’m currently a Computer Science graduate student at Columbia University.
 - 🔭 I have experience in full stack web application [Buddies](https://github.com/DavidHo666/Buddies) and backend service [EasyPost](https://github.com/DavidHo666/w4156pj.git). Besides, I also have experienc in ML related fields (AI, CV and NLP) and had a [Iris recognition project](https://github.com/DavidHo666/GR5293-Group-Project).
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dawei-he/)
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like road trip and hiking, hoping to visit all states and national parks in US.
 
