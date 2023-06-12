@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DavidHo666&count_private=true&show_icons=true"/>
+<!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DavidHo666&count_private=true&show_icons=true"/> -->
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHo666&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
 
